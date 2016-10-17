@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jumble Words</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_page">Jumble Words</string>
+
+    <string-array name="Background">
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+        <item>Background 4</item>
+        <item>Background 5</item>
+    </string-array>
+
+    <string name="title_activity_game_play">Jumble Words</string>
+    <string name="title_activity_end_scorepage">Jumble  Words</string>
+    <string name="title_activity_user_select">Jumble Words</string>
+    <string name="title_activity_categories">Jumble Words</string>
+    <string name="title_activity_level_page">Jumble Words</string>
+    <string name="title_activity_end_score_page">Jumble Words</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:key="screen">
+    
+    <ListPreference 
+        android:key="bg"
+        android:entries="@array/Background" 
+        android:entryValues="@array/Background"
+        android:title="Set Background Image"
+        android:summary="select and change app background"
+        />
+    
+    
+<CheckBoxPreference 
+    android:key="music"
+    android:title="Sound"
+    android:summaryOn="ENABLED"
+    android:summaryOff="DISABLED"
+    />
+
+<CheckBoxPreference 
+    android:key="dict"
+    android:title="T9 Dict Tool"
+    android:summaryOn="ENABLED"
+    android:summaryOff="DISABLED"
+    />
+</PreferenceScreen>
